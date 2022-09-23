@@ -1,3 +1,0 @@
-noshader
-nosound
-nomusic
